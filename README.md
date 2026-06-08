@@ -1,4 +1,4 @@
-#Monte Carlo Simulation of a Plastic Scintillator Detector with Photomultiplier Tube: Statistical Noise Analysis and Light Trapping Efficiency
+Monte Carlo Simulation of a Plastic Scintillator Detector with Photomultiplier Tube: Statistical Noise Analysis and Light Trapping Efficiency
 
 Radiation detectors based on plastic scintillators coupled to photomultiplier tubes (PMTs) are widely used in nuclear physics, radiation security, and nuclear medicine. However, the final electrical signal exhibits inherent statistical fluctuations that limit the detector's energy resolution. This work presents a comprehensive Monte Carlo simulation implemented in Python (Google Colab) that models the entire detection chain, from scintillation photon generation to the formation of the electrical pulse at the PMT anode.
 
